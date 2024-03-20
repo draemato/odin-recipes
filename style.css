@@ -1,0 +1,43 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: wheat;
+}
+
+h2 {
+    background-color: antiquewhite;
+}
+
+h4 {
+    font-style: italic;
+    background-color: blanchedalmond;
+}
+
+ul,
+ol {
+    font-style: italic;
+}
+
+.strudel-bowl {
+    width: 375px;
+    height: auto;
+}
+
+.p-separator {
+    text-align: center;
+    color: lightgrey;
+}
+
+.pastry {
+    color: burlywood;
+}
+
+.breakfast {
+    color: yellow;
+}
+
+.drinks {
+    color: aqua;
+}
