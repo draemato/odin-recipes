@@ -25,6 +25,10 @@ ol {
     height: auto;
 }
 
+.image-container {
+    width: fit-content;
+    margin: auto;
+}
 .p-separator {
     text-align: center;
     color: lightgrey;
